@@ -1,0 +1,2 @@
+# 本项目仅依赖 Python 3 标准库（http.server 等），无需 pip 安装第三方包。
+# 建议使用 Python >= 3.8
