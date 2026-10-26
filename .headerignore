@@ -54,3 +54,4 @@ types
 lib
 esm
 dist
+greedy_snake.*
